@@ -2,9 +2,9 @@
 ===============================
 
 输入dir命令和主机硬盘路径
-[dir order](source/2.png)
+![dir order](source/2.png)
 对于一些输入语法错误有检错功能
-[wrong format](source/1.png)
+![wrong format](source/1.png)
 
 
 
