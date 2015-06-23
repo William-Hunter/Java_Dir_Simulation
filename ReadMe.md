@@ -1,10 +1,11 @@
 ﻿##使用java模拟实现cmd dir 目录显示功能
 ===============================
 
-输入dir命令和主机硬盘路径
-![dir order](source/2.png)
-对于一些输入语法错误有检错功能
-![wrong format](source/1.png)
+输入dir命令和主机硬盘路径 
+![dir order](source/2.png) 
+
+对于一些输入语法错误有检错功能 
+![wrong format](source/1.png) 
 
 
 
